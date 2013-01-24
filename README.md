@@ -1,0 +1,4 @@
+kicadlib
+========
+
+Kicad Components Library
